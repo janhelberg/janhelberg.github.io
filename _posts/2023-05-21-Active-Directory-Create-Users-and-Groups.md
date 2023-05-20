@@ -12,11 +12,11 @@ I recently had to test a few scenarios using users and groups (The user names an
 ## Pre-requisites
 Powershell 2.0 \
 Powershell Module (we can easily import this)
-```
+```powershell
 Import-Module ActiveDirectory
 ```
 ## Create a predetermined number of users using Powershell
-```
+```powershell
 $TotalUsers = 500 #Total number of new users
 $UserPrefix = "NewEmployee Number" #Username prefix
 $OuPath = "OU=Call Centre," + (Get-ADDomain).DistinguishedName
@@ -33,7 +33,7 @@ For ($i=1; $i -le $TotalUsers; $i++)
 ```
 
 ## Create a predetermined number of groups using Powershell
-```
+```powershell
 $TotalGroups = 500 #Total number of new Groups
 $GroupPrefix = "ZGroup" #Group name prefix
 $OuPath = "OU=Call Centre," + (Get-ADDomain).DistinguishedName
@@ -45,11 +45,11 @@ For ($i=1; $i -le $TotalGroups; $i++)
 ```
 
 ## Remove the created users using Powershell
-```
+```powershell
 Get-ADUser -Filter 'Name -like "NewEmployee Number*"' | Remove-ADUser
 ```
 
 ## Remove the created groups using Powershell
-```
+```powershell
 Get-ADGroup -Filter 'Name -like "ZGroup*"' | Remove-ADGroup
 ```

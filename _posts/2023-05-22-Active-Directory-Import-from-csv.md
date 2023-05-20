@@ -1,7 +1,7 @@
 ---
 title:  "Active Directory: Import Users from CSV"
 #author: Jan Helberg
-date:   2023-05-22 00:00:00 +0200
+date:   2023-04-22 00:00:00 +0200
 categories: [Powershell, Active Directory]
 tags: [Active Directory, Powershell]
 ---
@@ -12,7 +12,7 @@ I recently had to test a few scenarios using users and groups, I needed to creat
 ## Pre-requisites
 Powershell 2.0 \
 Powershell Module (we can easily import this)
-```
+```powershell
 Import-Module ActiveDirectory
 ```
 
@@ -20,7 +20,7 @@ Import-Module ActiveDirectory
 All these users needed to be in the same Active directory path "OU=Call Centre"
 They needed to be in the same group ("Call Centre")
 I also needed all these users to me managed by a single users, For ease of use I created the user in the script (Teressa Watts). 
-```
+```powershell
 Import-Module ActiveDirectory
 $filename = "C:\Users\Administrator\Desktop\New-Users100000.csv"
 $path = "OU=Call Centre," + (Get-ADDomain).DistinguishedName
