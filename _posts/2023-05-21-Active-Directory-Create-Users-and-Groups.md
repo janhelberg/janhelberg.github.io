@@ -9,7 +9,7 @@ tags: [Active Directory, Powershell]
 ## Why I used these scripts?
 I recently had to test a few scenarios using users and groups (The user names and group names didn't matter), I needed to create a predetermined number of users and groups, and this needed to be repeatable for future use (or for an environment where we would **not** need these users to be permanent and can remove them again)
 
-## Pre-requisites
+## Prerequisites
 Powershell 2.0 \
 Powershell Module (we can easily import this)
 ```powershell

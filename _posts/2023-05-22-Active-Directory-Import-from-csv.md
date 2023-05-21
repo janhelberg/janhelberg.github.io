@@ -9,7 +9,7 @@ tags: [Active Directory, Powershell]
 ## Why I used these scripts?
 I recently had to test a few scenarios using users and groups, I needed to create a predetermined number of users and groups (where I needed to create the users from a set list of names), and this needed to be repeatable for future use (or for an environment where we would **not** need these users to be permanent and can remove them again)
 
-## Pre-requisites
+## Prerequisites
 Powershell 2.0 \
 Powershell Module (we can easily import this)
 ```powershell
@@ -28,7 +28,7 @@ Write-Host "Importing Active Directory"
 Write-Host "Starting User creation"
 New-ADOrganizationalUnit -Name "Call Centre"
 #New User to act as a manager for other users
-New-ADUser -Name "Teressa Watts" -AccountPassword (ConvertTo-SecureString 'MySecurePassword!' -AsPlainText -force) -Enabled $true -Path $path
+New-ADUser -Name "Teressa Watts" -AccountPassword (ConvertTo-SecureString 'AccountPassword' -AsPlainText -force) -Enabled $true -Path $path
 #New Group for the new users
 New-ADGroup -Name "Call Centre" -ManagedBy "Teressa Watts" -Path $path -GroupScope DomainLocal
 Import-Csv $filename | ForEach-Object {
