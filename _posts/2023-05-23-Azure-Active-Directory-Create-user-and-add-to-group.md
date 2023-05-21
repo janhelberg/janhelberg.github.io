@@ -1,5 +1,5 @@
 ---
-title:  "Azure Active Directory: Create users"
+title:  "Azure Active Directory: Create users and add to a group"
 #author: Jan Helberg
 date:   2023-05-23 00:00:00 +0200
 categories: [Powershell, Azure Active Directory]
@@ -31,5 +31,16 @@ for($count = 1; $count -le $TotalUsers ; $count++)
     $UserPrincipalName = $DisplayName + $AADDomain.Name
     $MailNickName = $DisplayName
     New-AzureADUser -DisplayName $DisplayName -PasswordProfile $PasswordProfile -UserPrincipalName $UserPrincipalName -AccountEnabled $true -MailNickName $MailNickName
+}
+```
+## Add existing users to a existing group
+```powershell
+$groupid = Get-AzureADGroup | Where-Object {$_.DisplayName -like "UserGroup"}
+$useradd = Get-AzureADUser -All $true | select userprincipalname,objectid | where {$_.UserPrincipalName -like "AAD User*"}
+$users = $useradd.objectId
+$users.Count
+foreach($user in $users){
+$user
+Add-AzureADGroupMember -ObjectId $groupid.ObjectId -RefObjectId $user
 }
 ```
