@@ -1,7 +1,7 @@
 ---
 title:  "SharePoint Online: Add users to a SharePoint Group"
 #author: Jan Helberg
-date:   2023-05-24 00:00:00 +0200
+date:   2023-05-24 20:00:00 +0200
 categories: [Powershell, Azure Active Directory]
 tags: [Azure Active Directory, Powershell, SharePoint Online]
 ---

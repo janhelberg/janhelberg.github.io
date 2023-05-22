@@ -1,7 +1,7 @@
 ---
 title:  "Azure Active Directory: Create users and add to a group"
 #author: Jan Helberg
-date:   2023-05-23 00:00:00 +0200
+date:   2023-05-23 20:00:00 +0200
 categories: [Powershell, Azure Active Directory]
 tags: [Azure Active Directory, Powershell]
 ---
