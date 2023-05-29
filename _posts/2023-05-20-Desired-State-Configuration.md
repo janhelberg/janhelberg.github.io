@@ -2,8 +2,8 @@
 title:  Desired State configuration
 #author: Jan Helberg
 date:   2023-05-20 00:15:00 +0200
-categories: [Technologies]
-tags: [Software]
+categories: [Technologies, Desired State configuration]
+tags: [Technologies, Software]
 ---
 
 ## What is Desired State configuration (DSC)
