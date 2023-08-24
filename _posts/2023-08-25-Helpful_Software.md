@@ -11,7 +11,7 @@ Free and open-source Offline Password Manager
 ## Lastpass
 Online Password Manager and digital vault
 
-## NotePadd ++
+## NotePad ++
 Expandable Notepad
 Has Syntax highlighting
 Multi tab
