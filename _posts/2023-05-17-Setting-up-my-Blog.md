@@ -3,7 +3,7 @@ title:  Setting up my blog
 #author: Jan Helberg
 date:   2023-05-17 20:00:00 +0200
 categories: [Blogging, Tutorial]
-tags: [other]
+tags: [Other]
 ---
 
 ## Picking theme

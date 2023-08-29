@@ -3,7 +3,7 @@ title:  Bug vs Defect vs Failure vs Error
 #author: Jan Helberg
 date:   2023-05-19 22:00:00 +0200
 categories: [Other, Rant]
-tags: [other]
+tags: [Other]
 ---
 
 ## Why do I feel compelled to write down my thoughts?
