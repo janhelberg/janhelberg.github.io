@@ -7,23 +7,21 @@ tags: [Websites]
 ---
 
 ## List of helpful websites
-Mock Data, Has Ai to add fields
-<a href="https://mockaroo.com/" target="_blank">mockaroo.com</a>
+<a href="https://mockaroo.com/" target="_blank">Mockaroo.com</a> - Mock Data. Has Ai to add fields
 
-Mock out Message cards
-<a href="https://messagecardplayground.azurewebsites.net/" target="_blank">messagecardplayground</a>
+<a href="https://messagecardplayground.azurewebsites.net/" target="_blank">Messagecardplayground</a> - Mock out Message cards
 
-Encode and decode jwt tokens
-<a href="https://jwt.io/" target="_blank">jwt.io</a>
+<a href="https://jwt.io/" target="_blank">Jwt.io</a> - Encode and decode jwt tokens
 
-Time zone converter / Meeting planner
-<a href="https://www.timeanddate.com/worldclock/meetingtime.html" target="_blank">timeanddate.com</a>
+<a href="https://www.timeanddate.com/worldclock/meetingtime.html" target="_blank">Timeanddate.com</a> - Time zone converter / Meeting planner
 
-Time tracking
-<a href="https://track.toggl.com/" target="_blank">toggl.com</a>
+<a href="https://track.toggl.com/" target="_blank">Toggl.com</a> - Time tracking
 
-AI\
-ChatGPT
-<a href="https://chat.openai.com/" target="_blank">chat.openai.com</a>\
-Bard
-<a href="https://bard.google.com/" target="_blank">bard.google.com</a>
+## Testing specific websites
+<a href="https://www.softwaretestinghelp.com/" target="_blank">Software Testing Help</a> - Information on all aspects of software testing, from manual testing to automation, Has lots of tutorials
+
+<a href="https://www.guru99.com/" target="_blank">Guru99</a> - Lots of Testing Tutorials on just about any subject
+
+<a href="https://testautomationu.applitools.com/" target="_blank">Test Automation University by Applitools</a> - Good Learning paths towards testing subjects
+
+<a href="https://www.accelq.com/blog/" target="_blank">Accelq blog</a> - Blog with testing subjects
