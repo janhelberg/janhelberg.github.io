@@ -2,12 +2,12 @@
 title:  "Helpful Websites"
 #author: Jan Helberg
 date:   2023-09-05 18:00:00 +0200
-categories: [Websites]
+categories: [Websites, General]
 tags: [Websites]
 ---
 
 ## List of helpful websites
-<a href="https://mockaroo.com/" target="_blank">Mockaroo.com</a> - Mock Data. Has Ai to add fields
+<a href="https://mockaroo.com/" target="_blank">Mockaroo.com</a> - Mock Data. Use AI to add fields
 
 <a href="https://messagecardplayground.azurewebsites.net/" target="_blank">Messagecardplayground</a> - Mock out Message cards
 
