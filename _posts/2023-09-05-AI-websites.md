@@ -3,7 +3,7 @@ title:  "AI Websites"
 #author: Jan Helberg
 date:   2023-09-08 23:40:00 +0200
 categories: [Websites, Artificial Intelligence]
-tags: [Websites. AI]
+tags: [Websites, AI]
 ---
 
 ## List of Artificial Intelligence websites
