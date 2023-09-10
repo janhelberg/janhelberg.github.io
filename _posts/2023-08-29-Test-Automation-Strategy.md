@@ -3,7 +3,7 @@ title:  "Test Automation Strategy (TAS)"
 #author: Jan Helberg
 date:   2023-08-29 00:10:00 +0200
 categories: [Test Documents, Test Automation Strategy]
-tags: [Test Automation Strategy, TAS]
+tags: [Test Automation Strategy, TAS, Testing]
 ---
 
 ## What is a Test Automation Strategy?

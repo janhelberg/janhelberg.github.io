@@ -3,7 +3,7 @@ title:  "Test Automation Architecture (TAA)"
 #author: Jan Helberg
 date:   2023-08-30 00:01:00 +0200
 categories: [Test Documents, Test Automation Architecture]
-tags: [Test Automation Architecture, TAA]
+tags: [Test Automation Architecture, TAA, Testing]
 ---
 
 ## What is a Test Automation Architecture?
