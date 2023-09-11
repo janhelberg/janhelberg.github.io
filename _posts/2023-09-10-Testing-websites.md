@@ -29,6 +29,3 @@ tags: [Websites, Testing Websites, Testing]
 <a href="https://blogs.cisco.com/cloud" target="_blank">Cisco Blog</a> - All topics relating to Cisco
 
 <a href="https://blogs.oracle.com/saas/" target="_blank">Oracle Blog</a> - All topics relating to Oracle
-
-
-

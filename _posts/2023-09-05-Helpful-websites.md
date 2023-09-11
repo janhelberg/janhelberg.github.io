@@ -16,6 +16,6 @@ tags: [Websites, General Websites]
 <a href="https://track.toggl.com/" target="_blank">Toggl.com</a> - Time tracking
 
 ## Blogs
-<a href="https://angryweasel.com/blog/" target="_blank">angryweasel</a> - Weekly blog with interesting info on a wide varierty of topics
+<a href="https://angryweasel.com/blog/" target="_blank">angryweasel</a> - Weekly blog with interesting info on a wide variety of topics
 
 <a href="https://angiejones.tech/" target="_blank">angiejones</a> - Blog relating to general software topics
