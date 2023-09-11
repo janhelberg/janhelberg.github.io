@@ -18,3 +18,5 @@ tags: [Websites, AI, AI Websites]
 
 ## Other
 <a href="https://rapidapi.com/" target="_blank">rapidapi</a> - RapidAPI is the world's largest API hub, with over 40,000 APIs from over 20,000 providers. It allows developers to find, test, and connect to APIs easily and quickly.
+
+<a href="http://synthesia.io/" target="_blank">synthesia</a> - Turn your text into videos in minutes
