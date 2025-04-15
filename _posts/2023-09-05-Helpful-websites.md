@@ -15,6 +15,8 @@ tags: [Websites, General Websites]
 
 <a href="https://track.toggl.com/" target="_blank">Toggl.com</a> - Time tracking
 
+<a href="https://www.virtualbreak.org/" target="_blank">VirtualBreak</a> - virtualbreak helps you provide beautiful countdown screens for various breaks in virtual trainings and workshops.
+
 ## Blogs
 <a href="https://angryweasel.com/blog/" target="_blank">angryweasel</a> - Weekly blog with interesting info on a wide variety of topics
 
